@@ -1,0 +1,3 @@
+-lesson-2.0 dizinini oluşturduk
+-covid.txt dosyasını oluşturduk
+-2 commit yaptık
